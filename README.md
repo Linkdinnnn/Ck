@@ -1,4 +1,7 @@
 # Ck
+https://github.com/wuzhi01/MyActions
+
+
 【账号1（会跳舞的牌牌琦）东东工厂】T0225KkcRR8RpFKDKU_9kfEKfACjVWnYaS5kRrbA
 【账号1（会跳舞的牌牌琦）京喜工厂】npFChmoU0X0hbV1HL2wGzw==
 【账号1（会跳舞的牌牌琦）京喜农场】未选择种子，请先去京喜农场选择种子
